@@ -9,17 +9,17 @@ nav ul{
     
 }
 nav a{
-    color: aliceblue;
+    color: #ffffff;
     text-decoration: none;
     margin-right: 1rem;   
 }
 /*home*/h1 {
-    color: aliceblue;
+    color: rgb(96, 160, 216);
     font-size: 100px;
     margin-left: 10rem;
 }
 .p-1{
-    color: aliceblue;
+    color: #ffffff;
     margin-left: 10rem;
 }
 .p-2{
@@ -27,11 +27,11 @@ nav a{
 
 }
 .p-3{
-    color: aliceblue;
+    color: #ffffff;
     margin-left: 10rem;
 }
 /*helpers*/
 .text-yellow{
-    color: rgba(207, 145, 9, 0.895)
+    color: #f1a600;
 }
 
