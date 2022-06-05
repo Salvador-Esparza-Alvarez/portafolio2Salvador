@@ -30,14 +30,40 @@ nav a{
     color: #ffffff;
     margin-left: 10rem;
 }
+.container{
+    display: flex;
+    align-items: flex-start;
+    justify-content:flex-end;
+}
+
+.rectangle-1{
+    background-color:purple;
+    width: 600px;;
+    height: 600px;;
+}
+
 .img-principal{
     display: flex;
     align-items: center;
     justify-content: flex-end;
 
 }
+
+
 /*helpers*/
 .text-yellow{
     color: #f1a600;
 }
 
+.container{
+    display: flex;
+    align-items: flex-start;
+    justify-content:flex-end;
+}
+
+.rectangle-1{
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+}
