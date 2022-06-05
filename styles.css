@@ -37,9 +37,11 @@ nav a{
 }
 
 .rectangle-1{
-    background-color:purple;
+    background-color: rgb(146, 123, 146);
     width: 600px;;
     height: 600px;;
+
+    
 }
 
 .img-principal{
@@ -55,15 +57,4 @@ nav a{
     color: #f1a600;
 }
 
-.container{
-    display: flex;
-    align-items: flex-start;
-    justify-content:flex-end;
-}
 
-.rectangle-1{
-    background-color: red;
-    width: 400px;
-    height: 400px;
-    display: inline-block;
-}
