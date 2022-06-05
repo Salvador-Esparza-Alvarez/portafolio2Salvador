@@ -30,6 +30,12 @@ nav a{
     color: #ffffff;
     margin-left: 10rem;
 }
+.img-principal{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+
+}
 /*helpers*/
 .text-yellow{
     color: #f1a600;
